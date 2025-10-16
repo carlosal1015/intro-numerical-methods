@@ -2,3 +2,5 @@
 *.slides.html
 peer_review.html
 *template.ipynb
+# MyST build outputs
+_build
